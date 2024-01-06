@@ -111,7 +111,11 @@ footer div {
 @media (max-width: 600px) {
 
  .resposta {
-  display: block;
- }
+    display: block;
+    }
+
+ .resposta div:nth-child(1){
+    display: none;
+    }
 
 }
