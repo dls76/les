@@ -116,6 +116,7 @@ footer div {
 
  .resposta div:nth-child(1){
     display: none;
+    padding: 5px;
     }
 
 }
