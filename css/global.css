@@ -117,7 +117,9 @@ footer div {
 
  .resposta div:nth-child(1){
     display: none;
-    padding: 5px;
     }
 
+ .respostas div:nth-child(2) {
+    border-left: 4px solid lightgray;
+    }
 }
