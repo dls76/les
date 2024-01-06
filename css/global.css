@@ -69,6 +69,7 @@ h1 {
 
 .resposta div:nth-child(2) {
     padding: 15px;
+    border-left: 4px solid lightgray;
 }
 /*
 .rl {
