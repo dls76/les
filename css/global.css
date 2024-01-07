@@ -60,11 +60,11 @@ h1 {
 }
 
 .resposta div:nth-child(1) {
-    /* border: 1px solid red; */
-    display: flex;
+    display: flex; 
     justify-content: center;
     align-items: flex-start;
     padding: 15px;
+    display: none;
 }
 
 .resposta div:nth-child(2) {
