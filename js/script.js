@@ -20,7 +20,7 @@ const licoes = [
   {trim: '2º', data1: new Date(2024, 4, 11), data2: new Date(2024, 4, 17), numero: 13, titulo: "Título lição"},
   {trim: '2º', data1: new Date(2024, 4, 18), data2: new Date(2024, 4, 24), numero: 13, titulo: "Título lição"},
   {trim: '2º', data1: new Date(2024, 4, 25), data2: new Date(2024, 4, 31), numero: 13, titulo: "Título lição"},
-  {trim: '2º', data1: new Date(2024, 5, 1), data2: new Date(2024, 5, 7), numero: 13, titulo: "Título lição"},
+  {trim: '2º', data1: new Date(2024, 5, 1), data2: new Date(2024, 5, 7), numero: 10, titulo: "Espiritualismo exposto"},
   {trim: '2º', data1: new Date(2024, 5, 8), data2: new Date(2024, 5, 14), numero: 13, titulo: "Título lição"},
   {trim: '2º', data1: new Date(2024, 5, 15), data2: new Date(2024, 5, 21), numero: 13, titulo: "Título lição"},
   {trim: '2º', data1: new Date(2024, 5, 22), data2: new Date(2024, 5, 28), numero: 13, titulo: "Título lição"},
